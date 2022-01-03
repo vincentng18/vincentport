@@ -2,7 +2,7 @@ const textConfig = {
   text1: "Vy ơii",
   text2: "Anh mới làm xong cái portfolio, anh muốn cho em nhận xét. Cứ chặt nhiệt tình nhá :))",
   text3: "Ứng tuyển vị trí chăm sóc Vy",
-  text4: "Cam kết luôn nghe lời, luôn nỗ lực và cố gắng",
+  text4: "Cam kết luôn nghe lời, luôn nỗ lực, luôn cố gắng và luôn ủng hộ em, bên cạnh em",
   text5: "Loại ngay từ vòng gửi xe",
   text6: "Nhận, nhận vội",
   text7: "Portfolio của anh ổn không?",
